@@ -1,0 +1,230 @@
+/*-------LA CABESERA*/
+.search-box input{
+    position: static;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.search-box .fa-search{
+    color: gainsboro;
+    margin-left: -25px;
+
+}
+.col-8 span{
+   position: relative;
+    bottom: 26px;
+    left: 50px;
+    color: gainsboro;
+    font-size: 25px;
+}
+.col-4{
+   position: relative;
+    top: 18px;
+}
+/*-------imagenes primeras*/
+
+.big img{
+   position: absolute;
+    bottom: 18em;
+    left: 417px
+}
+h1{
+    margin: 10px;
+    font-size: 150px;
+    color: aliceblue;
+    
+   
+}
+hr{
+    margin: 10px;
+    color: gainsboro;
+    width: 18em;
+}
+
+.baner img{
+    width:160%;
+    height:540px;
+} 
+ .yo{
+    padding: 4px;
+    border:4px solid green; 
+    width: 15em;
+    border-radius: 6px;
+    color:forestgreen;
+    font-size: 20px
+}
+table td{
+    position: relative;
+    left: 40px;
+    margin: 
+}
+table tr{
+   margin-bottom:55px; 
+}
+.pelicula {
+    position: relative;
+    right: 60px;
+    width: 28em;
+    color: gainsboro;
+    line-height: 1.6;
+  
+}
+
+.la{
+   position: relative;
+    width: 167px;
+    top: 20px;
+    left: 10px;
+    padding: 13px;
+    padding-left: 25px;
+    border-radius: 5px orange;
+    font-size: 15px;
+    background-color:orange;
+}
+.fa-youtube-play{
+   position: relative;
+    color: white;
+    right: 73px;
+    bottom: 19px;
+    width: 80px;
+    padding: 5px;
+    
+}
+button{
+    position: relative;
+    width: 159px;
+    height: 50px;
+    top: 80px;
+    right: 158px;
+    padding: 15px;
+    padding-left:20px;
+    border-radius: 5px;
+    background-color:darkorange;
+}
+.fa-ticket{
+    position: relative;
+    color: white;
+    right: 115px;
+    top: 1px;
+    width: em;
+    height: 20px;
+    
+}
+/*-------PARTE ESTRENO-----*/
+.de{
+  width: 10%  
+}
+.estrenos img {
+    animation-play-state: running;
+    width: 90%;
+    padding-top:18px
+    
+}
+.estrenos{
+    height: 300px;
+   background-color: darkorange; 
+    padding: 30px;
+}
+/*--------parte de cartelera-----video--*/
+.container-fluid{
+   color: gainsboro;
+    
+}
+.uno{
+   font-size: 30px;
+    margin-top: 50px;
+}
+.container-fluid h1{
+ position: relative;
+ right: 28px;   
+ font-size: 35px;
+ color: black;
+ padding: 10px;
+}
+h2{
+    position: relative;
+    font-size: 25px;
+    bottom: 
+    
+}
+.col-6 {
+    height: 400px
+}
+.dos{
+    color: aliceblue;
+     position: absolute;
+     top:117em;
+     left:60px; 
+     height: 70px ;
+     width: auto;
+     padding-left:28px;
+}
+.dos .fa-ticket{
+  position: relative;
+   width: 40px;
+  right: 123px;
+    border: orange;
+}
+
+
+h3{
+    font-size: 30px;
+    padding: 10px;
+}
+.col-6 li{
+    list-style: none;
+    border-bottom: solid 1px gainsboro;
+    padding: 20px;
+    
+}
+.col-6 a{
+    text-decoration: none;
+    color: gold;
+    font-size: 20px;
+    margin-bottom: 20px;
+    
+}
+h4{
+    color: black;
+    padding: 10px;
+}
+/*-------------cartelera de pelis----*/
+.cartelera img {
+    width: 95%;
+    height: 300px
+}
+.na{
+    position: relative;
+    width: 400px;
+    bottom: 60px;
+    font-size: 18px;
+    color: gold;
+    padding: 18px;
+}
+/*------------pie de pagina*/
+footer .container-fluid{
+    background-color: ghostwhite;
+    padding: 15px;
+    font-size: 10px;
+    color: #B2BABB; 
+    height: 200px;
+    
+}
+.bu{
+    font-size: 12px;
+    color: #B2BABB  ;
+}
+.copydos{
+  width: 40em  
+}
+.copy{
+padding-top: 30px;
+ padding-bottom: 30px;   
+}
+
+.a{
+ padding-top:    
+}
+
+
+
