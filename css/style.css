@@ -117,6 +117,7 @@ button{
 .estrenos img {
     animation-play-state: running;
     width: 90%;
+    height: 200px;
     padding-top:18px
     
 }
